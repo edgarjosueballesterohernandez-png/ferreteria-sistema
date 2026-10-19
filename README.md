@@ -35,5 +35,5 @@ Sistema de información desarrollado como prototipo funcional para la gestión d
 
 1. **Clonar el repositorio**
 ```bash
-
+https://github.com/edgarjosueballesterohernandez-png/ferreteria-sistema
 cd ferreteria-sistema
